@@ -4,80 +4,70 @@
       "id": 1,
       "ip": "1.0.0.1",
       "port": 80,
-      "Country": "Australia",
-      "City": "Wynn Vale",
+      "Country": "Australia, Wynn Vale",
       "Anonymity": "No"
     },
     {
       "id": 2,
       "ip": "1.0.0.25",
       "port": 80,
-      "Country": "Australia",
-      "City": "Wynn Vale",
+      "Country": "Australia, Wynn Vale",
       "Anonymity": "No"
     },
     {
       "id": 3,
       "ip": "1.0.0.79",
       "port": 80,
-      "Country": "Australia",
-      "City": "Stirling",
+      "Country": "Australia, Stirling",
       "Anonymity": "No"
     },
     {
       "id": 4,
       "ip": "1.0.0.237",
       "port": 80,
-      "Country": "Australia",
-      "City": "Stirling",
+      "Country": "Australia, Stirling",
       "Anonymity": "No"
     },
     {
       "id": 5,
       "ip": "1.0.0.170",
       "port": 80,
-      "Country": "Australia",
-      "City": "Parafield Gardens",
+      "Country": "Australia, Parafield Gardens",
       "Anonymity": "No"
     },
     {
       "id": 6,
       "ip": "1.0.0.104",
       "port": 80,
-      "Country": "Australia",
-      "City": "Parafield Gardens",
+      "Country": "Australia, Parafield Gardens",
       "Anonymity": "No"
     },
     {
       "id": 7,
       "ip": "1.0.0.52",
       "port": 80,
-      "Country": "Australia",
-      "City": "Parafield Gardens",
+      "Country": "Australia, Parafield Gardens",
       "Anonymity": "No"
     },
     {
       "id": 8,
       "ip": "1.0.0.220",
       "port": 80,
-      "Country": "Australia",
-      "City": "Stirling",
+      "Country": "Australia, Stirling",
       "Anonymity": "No"
     },
     {
       "id": 9,
       "ip": "1.0.0.76",
       "port": 80,
-      "Country": "Australia",
-      "City": "Parafield Gardens",
+      "Country": "Australia, Parafield Gardens",
       "Anonymity": "No"
     },
     {
       "id": 10,
       "ip": "1.0.0.103",
       "port": 80,
-      "Country": "Australia",
-      "City": "Parafield Gardens",
+      "Country": "Australia, Parafield Gardens",
       "Anonymity": "No"
     }
   ]
